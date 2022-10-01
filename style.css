@@ -22,3 +22,46 @@
   padding: 8px 25px;
   cursor: pointer;
 }
+
+.cat1,
+.cat2,
+.cat3 {
+  padding: 20px 30px;
+  border-radius: 10px;
+  color: white;
+}
+
+.cat1 {
+  background-color: #fd841f;
+}
+
+.cat2 {
+  background-color: #cd104d;
+}
+
+.cat3 {
+  background-color: #9c2c77;
+}
+
+.categories img {
+  width: 100px;
+}
+
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+
+#register {
+  height: 300px;
+}
+
+#register h6 {
+  color: gray;
+}
+
+footer {
+  text-align: center;
+  font-size: 16px;
+  padding-bottom: 20px;
+}
